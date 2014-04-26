@@ -1,10 +1,4 @@
-Demo de [tecnología]
+Demo de [opacidad]
 ====================
 
-Esto es una demostración de....
-
-TÍTULO 1
-________
-
-TÍTULO 2
---------
+Esto es una demostración de opacidad
